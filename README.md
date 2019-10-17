@@ -1,4 +1,5 @@
 The role of familiarity in signal-receiver interactions
+
 Wei Ji Ma and James P. Higham
 
 This is a theoretical paper and there are no data involved. Below are instructions for reproducing the simulation results.
