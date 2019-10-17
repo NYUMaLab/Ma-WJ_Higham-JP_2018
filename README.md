@@ -14,3 +14,5 @@ First download all files to a computer on which Matlab is installed.
 - Run MASTER.m
 - In lines 3 to 6, specify the numbers of males, the number of simulation runs, the synchrony (off or on), and the numbers of females.
 - Dependencies: MASTER.m calls simulate.m, which calls getmeasurements.m (generates noisy measurements), getchoices_overdays (which simulates the males’ decisions), and getpaternity.m (which tallies the paternity of the males in the colony)
+
+You can also refer to https://datadryad.org/stash/dataset/doi:10.5061/dryad.t0680db for more information.
